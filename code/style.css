@@ -1,0 +1,34 @@
+
+body{
+    background-color: #FFDEAD;
+}
+
+table {
+    border-collapse: collapse;
+    color: black;
+}   
+table {
+    padding: 1;
+    background: white;
+    color: black;
+    height: 500px;
+    width: 700px;
+    transition-delay: 1s;
+}
+
+td {
+    font-weight: bold;
+}
+.diassemana {
+    background-color: #87CEFA;
+    padding: 1;
+}
+.numcalendarios:hover {
+    transition-duration: 1s;
+    background-color: #4ea3d8;
+}
+
+.marco, .maio{
+    background-color: #A9A9A9;
+}
+
